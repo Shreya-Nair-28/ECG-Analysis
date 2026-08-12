@@ -74,6 +74,16 @@ Only selected 30-second sections were analyzed rather than complete recordings.
 
 The project uses expert annotations as a reference for beat counts but does not perform a full beat-by-beat accuracy evaluation.
 
+## Results
+
+### Raw vs Filtered Heart Rate
+
+![Raw vs Filtered Heart Rate](plots/heart_rate_comparison.png)
+
+### Filtering Difference
+
+![Filtering Difference](plots/filtering_difference.png)
+
 ## Conclusion
 
 This project demonstrates a Python-based workflow for loading, preprocessing, visualizing, and analyzing real ECG signals.
