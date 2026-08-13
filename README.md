@@ -80,9 +80,9 @@ The project uses expert annotations as a reference for beat counts but does not 
 
 ![Raw vs Filtered Heart Rate](plots/heart_rate_comparison.png)
 
-### Filtering Difference
+### Expert vs Detected Beats
 
-![Filtering Difference](plots/filtering_difference.png)
+![Expert vs Detected Beats](./plots/beat_detection_comparison.png)
 
 ## Conclusion
 
